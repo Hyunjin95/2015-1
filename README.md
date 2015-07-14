@@ -1,3 +1,3 @@
 # 2015-1
-Files for lectures in 2015 spring semester.
+Lab codes in System Programming lecture.
 a
