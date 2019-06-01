@@ -1,4 +1,4 @@
-# System Programming at SNU, 2015 Spring<br>
+# System Programming, Spring 2015<br>
 ## 1. Buffer Overflow
 In Buffer Overflow Lab, you will develop a detailed understanding of IA-32 calling conventions and stack organization. It involves applying a series of buffer overflow attacks on an executable file bufbomb in the lab directory.<br>
 ## 2. Kernel Driver
